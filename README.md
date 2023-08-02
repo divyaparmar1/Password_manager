@@ -24,7 +24,7 @@ The Secure Password Manager project is a cybersecurity application designed to s
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/your-username/secure-password-manager.git
+   git clone https://github.com/divyaparmar1/secure-password-manager.git
 2. Navigate to the project directory:
    cd Password_manager
 3. Install required libraries:
